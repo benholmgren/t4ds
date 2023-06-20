@@ -35,6 +35,12 @@ Diag1966 <- gridDiag(X=dfGlac, FUNvalues = distances, maxdimension = 1, sublevel
 
 $\mathbb{M}\mathcal{A}\mathcal{T}\mathcal{H}$
 
+`Inline code`
+
+```
+codeBlock <- 5
+```
+
 In this session, we provide a light and fast introduction to the subject of
 topology, a field of mathematics that stems from pure mathematics, but has
 applications in data analysis that makes it an interesting subject to applied
